@@ -1,5 +1,7 @@
 # An Introduction to Elm
 
+> 本开源书 forked from [An Introduction to Elm](https://github.com/evancz/guide.elm-lang.org)，作者为 [evancz](https://github.com/evancz)，欢迎大家 star 原作者的 [repo](https://github.com/evancz/guide.elm-lang.org)，以便获得最新更新，谢谢！
+
 **Elm is a functional language that compiles to JavaScript.** It competes with projects like React as a tool for creating websites and web apps. Elm has a very strong emphasis on simplicity, ease-of-use, and quality tooling.
 
 This guide will:
